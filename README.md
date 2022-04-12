@@ -1,13 +1,18 @@
-# Card-game
+## 1. Card-game 🗃️
 
-Card game with JavaFX
+
+Card game with `JavaFX`
 
 The goal is to do 21 the first !!!!!
 
-The First player clic on the card button until he don't want more card and clic on the button stand to validate.
+    The First player clic on the card button until he don't want more card and clic on the button stand to validate.
 
-The Second player do the same thing.
+    The Second player do the same thing.
+    
+## 2. Winner 😜
 
-If a player do over 21 when he choose his cards, he lose.
+If a player do over **21** when he choose his cards, he lose.
 
-The player with the highest score win. The score max is 21.
+The player with the ***highest score win*** 🥇. 
+
+The score max is **21** 😍.
